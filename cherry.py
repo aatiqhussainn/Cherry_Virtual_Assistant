@@ -116,7 +116,7 @@ if __name__ == "__main__":
             speak("How are you, Sir")
 
         elif "who are you" in query:
-            speak("I am your virtual assistant Sir")
+            speak("I am your virtual assistant, Sir")
 
         elif "who  made you" in query or "who created you" in query:
             speak("I have been created by Aatiq.")
